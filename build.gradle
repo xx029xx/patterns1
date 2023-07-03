@@ -27,7 +27,7 @@ dependencies {
     testImplementation 'com.codeborne:selenide:6.12.2'
     testImplementation 'com.github.javafaker:javafaker:1.0.2'
 
-    testImplementation 'io.qameta.allure:allure-selenide:2.9.6'
+    testImplementation 'io.qameta.allure:allure-selenide:2.20.1'
 
     compileOnly 'org.projectlombok:lombok:1.18.24'
     annotationProcessor 'org.projectlombok:lombok:1.18.20'
